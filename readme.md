@@ -19,4 +19,3 @@ This is a simple multi-folder project created for Git Week 2 Lab.
 - Docs
 
 Author: vamsri
-Feature Login Added

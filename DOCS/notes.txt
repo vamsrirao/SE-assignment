@@ -1,0 +1,9 @@
+Student Management Project
+
+Features:
+1. Display student information.
+2. Basic HTML page.
+3. Simple CSS styling.
+4. Java welcome program.
+
+Created for Git Lab Assignment.

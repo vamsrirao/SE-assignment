@@ -7,4 +7,3 @@ Features:
 4. Java welcome program.
 
 Created for Git Lab Assignment.
-Git Week 2 Assignment Practice
